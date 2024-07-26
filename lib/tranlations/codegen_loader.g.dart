@@ -551,7 +551,7 @@ class CodegenLoader extends AssetLoader{
     "select_the_property_type": "Select the property type",
     "Property_Sent_for_approval_Successfully":"Property Sent for approval Successfully",
 
-    "meter": "",
+    "meter": "m²",
     "rate_this_Property":"Rate this Property",
     "Already Reviewed":"Already Reviewed",
     "Review_submitted_successfully":"Review submitted successfully",
